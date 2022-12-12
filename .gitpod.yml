@@ -1,0 +1,13 @@
+
+tasks:
+  - name: Node
+    init: yarn install  
+
+ports:
+  - port: 8080
+    onOpen: open-browser
+    visibility: public
+
+vscode:
+  extensions:
+    - mhutchie.git-graph

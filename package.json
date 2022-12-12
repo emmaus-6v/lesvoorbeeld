@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "name": "6v-eindopdracht",
+  "version": "1.0.0",
+  "main": "server-app.js",
+  "scripts": {
+    "start": "node server-app.js"
+  },
+  "repository": "https://github.com/emmauscollege/6V-Knikkerbaan-template",
+  "author": "cam-emmauscollege <cam@emmauscollege.nl>",
+  "license": "MIT"
+}
